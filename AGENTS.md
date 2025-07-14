@@ -28,6 +28,8 @@
    - `mn2yLottoGen/` 루트 디렉토리 생성
    - `/lotto_app` 및 기타 코드 파일 정리
    - LICENSE 및 README.md 파일 자동 생성
+   - Flutter 앱 전체 구조(screens, services, models 등) 추가 구현
+   - README 한글 안내 추가
 
 ---
 
